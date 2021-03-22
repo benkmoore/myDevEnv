@@ -1,4 +1,4 @@
 #/bin/sh
 
-echo compiling C++1717171717171717171717171717171717 using -ansi -pedantic-errors -Wall
+echo compiling C++17 using -ansi -pedantic-errors -Wall
 g++ -ansi -pedantic-errors -Wall -std=c++17 $1 $2 $3
